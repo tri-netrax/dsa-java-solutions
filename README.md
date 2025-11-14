@@ -25,11 +25,6 @@ Every problem includes **clean code, optimized solutions, and proper time/space 
 - 🔹 Dynamic Programming  
 - 🔹 Greedy Algorithms  
 
-Each folder contains:
-- Java solution file  
-- Problem link (if allowed)  
-- Approach / Intuition  
-- Time & space complexity  
 
 ---
 
